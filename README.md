@@ -1,4 +1,3 @@
-<img src= "https://berendkalberg.nl/static/media/profile-circle.a325a77f.png"></img>
 <br>
 <br>
 Welcome to my GitHub! My name is Berend and this is where I showcase most of my work and keep my code organised. Feel free to look at my work.
