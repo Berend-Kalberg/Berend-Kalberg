@@ -1,5 +1,3 @@
-<br>
-<br>
 Welcome to my GitHub! My name is Berend and this is where I showcase most of my work and keep my code organised. Feel free to look at my work.
 
 ### ⚡ Relevant achievements
@@ -11,9 +9,9 @@ Welcome to my GitHub! My name is Berend and this is where I showcase most of my 
 - JavaScript
 - NodeJS
 - ReactJS
-- Strapi
+- Headless CMS (Strapi)
 
-### 👩‍💻 I'm working on
+### 👨🏻‍💻 I'm working on
 - Building projects and my portfolio website.
 - Finding an internship at an awesome company!
 
@@ -23,13 +21,12 @@ Welcome to my GitHub! My name is Berend and this is where I showcase most of my 
 - Become skilled in JavaScript and brush up on my knowledge of HTML and CSS
 
 ### 🌴 Fun facts
-- I blog, game and love being active in online communities
+- I blog ✍🏻, game 🎮 and love being active in online communities
 - Born in the Netherlands but fluent in English
+- Big fan of Formula 1 and racing 🏎
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/berendkalberg/">berendkalberg</a>
 - Twitter: <a href = "https://twitter.com/Berend_Kalberg">@Berend_Kalberg</a>
 - Website: <a href = "https://berendkalberg.nl">berendkalberg.nl</a>
-- Blog: <a href = "https://berendkalberg.nl/blog">Blog</a>
-<br>
-<br>
+- [Blog](https://berendkalberg.nl/blog)
