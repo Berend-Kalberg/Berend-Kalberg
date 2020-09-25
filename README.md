@@ -2,8 +2,7 @@ Welcome to my GitHub! My name is Berend and this is where I showcase most of my 
 
 ### ⚡ Relevant achievements
 - Finished my new portfolio website build with React and Strapi
-- Third year student @Hogeschool Rottedam studying Creative Media & Game Technologies
-
+- Fourth year student @Hogeschool Rottedam studying Creative Media & Game Technologies
 
 ### ✔️ I'm currently learning
 - JavaScript
@@ -26,7 +25,7 @@ Welcome to my GitHub! My name is Berend and this is where I showcase most of my 
 - Big fan of Formula 1 and racing 🏎
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/berendkalberg/">berendkalberg</a>
-- Twitter: <a href = "https://twitter.com/Berend_Kalberg">@Berend_Kalberg</a>
-- Website: <a href = "https://berendkalberg.nl">berendkalberg.nl</a>
+- [LinkedIn](https://www.linkedin.com/in/berendkalberg)
+- [Twitter](https://twitter.com/Berend_Kalberg)
+- [Personal Website](https://berendkalberg.nl)
 - [Blog](https://berendkalberg.nl/blog)
