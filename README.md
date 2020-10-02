@@ -2,27 +2,31 @@ Welcome to my GitHub! My name is Berend and this is where I showcase most of my 
 
 ### ⚡ Relevant achievements
 - Finished my new portfolio website build with React and Strapi
-- Fourth year student @Hogeschool Rottedam studying Creative Media & Game Technologies
+- Got an internship at a really awesome company where I can work on some amazing projects
+- Fourth year student @ Rotterdam University of Applied Sciences studying Creative Media & Game Technologies
 
 ### ✔️ I'm currently learning
 - JavaScript
 - NodeJS
-- ReactJS
+- React
 - Headless CMS (Strapi)
+- Dialogflow
 
 ### 👨🏻‍💻 I'm working on
-- Building projects and my portfolio website.
-- Finding an internship at an awesome company!
+- Building more projects for my portfolio
+- Interning at an awesome company!
+- Hacktoberfest
 
-### 💡 Goals for 2020
-- Finding an awesome internship as a frontend developer
+### 💡 Goals for 2020/2021
+- Completing my internship
 - Build more projects for my portfolio
-- Become skilled in JavaScript and brush up on my knowledge of HTML and CSS
+- Become skilled in JavaScript, NodeJS and brush up on my knowledge of HTML and CSS
 
 ### 🌴 Fun facts
 - I blog ✍🏻, game 🎮 and love being active in online communities
 - Born in the Netherlands but fluent in English
 - Big fan of Formula 1 and racing 🏎
+- Favorite Racing team is Red Bull Racing
 
 ### ☕ Get in touch
 - [LinkedIn](https://www.linkedin.com/in/berendkalberg)
