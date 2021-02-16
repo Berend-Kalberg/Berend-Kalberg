@@ -13,12 +13,12 @@ Welcome to my GitHub! My name is Berend and this is where I showcase most of my 
 - Dialogflow
 
 ### 👨🏻‍💻 I'm working on
-- Building more projects for my portfolio
-- Interning at an awesome company!
-- Hacktoberfest
+- Machine learning in Javascript
+- A mysterious new project
+- Working as conversational automation developer
 
 ### 💡 Goals for 2020/2021
-- Completing my internship
+- Completing my internship ✔️
 - Build more projects for my portfolio
 - Become skilled in JavaScript, NodeJS and brush up on my knowledge of HTML and CSS
 
