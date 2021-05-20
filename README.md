@@ -3,6 +3,7 @@ Welcome to my GitHub! My name is Berend and this is where I showcase most of my 
 ### ⚡ Relevant achievements
 - Finished my new portfolio website build with React and Strapi
 - Got an internship at a really awesome company where I can work on some amazing projects
+- Completed my internship
 - Fourth year student @ Rotterdam University of Applied Sciences studying Creative Media & Game Technologies
 
 ### ✔️ I'm currently learning
@@ -11,11 +12,11 @@ Welcome to my GitHub! My name is Berend and this is where I showcase most of my 
 - React
 - Headless CMS (Strapi)
 - Dialogflow
+- NextJS
 
 ### 👨🏻‍💻 I'm working on
-- Machine learning in Javascript
-- A mysterious new project
-- Working as conversational automation developer
+- NextJS project for my study
+- Working as a conversational automation specialist
 
 ### 💡 Goals for 2020/2021
 - Completing my internship ✔️
