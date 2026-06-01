@@ -1,15 +1,47 @@
-Welcome to my GitHub! My name is Berend and this is where I showcase most of my work and keep my code organised. Feel free to look at my work.
+# Hi, I'm Berend Kalberg
 
-### 👨🏻‍💻 I'm working on
-- AZ-400
-- AZ-104
-- AI-900
+Cloud Engineer with a strong focus on Microsoft Azure, DevOps, automation, and Infrastructure as Code. I enjoy building reliable cloud solutions, improving deployment processes, and automating repetitive tasks.
 
-### 🌴 Fun facts
-- I blog ✍🏻, game 🎮 and love being active in online communities
-- Born in the Netherlands but fluent in English
-- Big fan of Formula 1 and racing 🏎
-- Favorite Racing team is Red Bull Racing
+This GitHub profile contains personal projects, automation scripts, learning initiatives, and experiments that help me expand my technical expertise and stay up to date with the Microsoft cloud ecosystem.
 
-### ☕ Get in touch
-- [LinkedIn](https://www.linkedin.com/in/berendkalberg)
+## About Me
+
+- Cloud Engineer specializing in Microsoft Azure and DevOps
+- Passionate about automation, platform engineering, and cloud architecture
+- Based in the Netherlands
+- Fluent in Dutch and English
+
+## Technologies & Tools
+
+### Cloud & DevOps
+- Microsoft Azure
+- Azure DevOps
+- GitHub Actions
+- Docker
+
+### Infrastructure as Code
+- Bicep
+- ARM Templates
+
+### Automation & Development
+- PowerShell
+- .NET
+- Bicep & ARM
+- YAML
+
+## Featured Areas
+
+- Azure Governance
+- CI/CD Pipelines
+- Infrastructure Automation
+- Identity & Access Management
+- Monitoring & Observability
+- Cloud Security
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Berend%20Kalberg-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/berendkalberg)
+
+---
+
+Thanks for visiting my profile.
